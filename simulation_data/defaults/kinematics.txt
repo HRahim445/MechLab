@@ -1,0 +1,12 @@
+[STATIC DATA]
+a = 0.0
+b = 1.0
+c = 1
+d = -10
+[CALCULATED DATA]
+Maximum Speed
+Minimum Speed
+[DYNAMIC DATA]
+Displacement
+Velocity
+Acceleration

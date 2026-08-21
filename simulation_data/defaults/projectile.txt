@@ -1,0 +1,10 @@
+[STATIC DATA]
+launch_speed = 20.0
+launch_angle = 75.0
+acceleration_to_gravity = 9.81
+[CALCULATED DATA]
+Maximum Height
+Range
+[DYNAMIC DATA]
+Height
+Horizontal Distance

@@ -1,0 +1,9 @@
+[STATIC DATA]
+star_mass = 1000000000000.0
+object_mass = 100
+angular_velocity = 0.01
+[CALCULATED DATA]
+Orbital Radius
+Orbital Time Period
+[DYNAMIC DATA]
+Angular Position in Cycle 
