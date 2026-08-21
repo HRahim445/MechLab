@@ -1,0 +1,11 @@
+[STATIC DATA]
+mass = 1.0
+spring_constant = 10.0
+amplitude = 2
+[CALCULATED DATA]
+Angular Velocity
+Time Period
+[DYNAMIC DATA]
+Position
+Velocity
+Acceleration

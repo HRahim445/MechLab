@@ -1,0 +1,13 @@
+[STATIC DATA]
+length = 1.0
+acceleration_to_gravity = 9.81
+initial_angular_displacement = 45.0
+[CALCULATED DATA]
+Angular Oscillation Frequency
+Time Period
+[DYNAMIC DATA]
+Angular Displacement
+Distance from Equilibrium
+Angular Rotation Velocity
+Linear Speed
+Angular Acceleration

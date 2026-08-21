@@ -1,0 +1,14 @@
+[STATIC DATA]
+object_a_mass = 3
+object_b_mass = 2
+object_a_initial_speed = 2
+object_b_initial_speed = 0.0
+coefficient_of_restitution = 0.75
+[CALCULATED DATA]
+Final Speed of Object A
+Final Speed of Object B
+Total Kinetic Energy Loss
+[DYNAMIC DATA]
+Impulse A on B
+Impulse B on A
+Collision Phase
